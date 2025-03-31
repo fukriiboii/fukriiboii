@@ -9,6 +9,9 @@ I have experience with CI/CD pipelines, automating deployments, and improving de
 
 When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, learning about software architecture or working out.
 
+Let's connect
+     👇
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahri-kuzey-3540a7177/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Fahrikuzey@hotmail.com) 
