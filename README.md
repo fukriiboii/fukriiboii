@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi there! 👋 I'm Fahri
+Hi there! 👋 I'm a Systems Developer with a strong background in Java development. I have a vocational degree in Java development from a Swedish higher vocational education program.
+
+I specialize in backend development, working with Spring Boot, REST APIs, and microservices. I enjoy designing efficient systems, optimizing performance, and ensuring smooth integrations between services.
+
+Currently, I am also improving my skills in React.js and enjoy building frontend projects in my free time. Exploring full-stack development helps me gain a deeper understanding of modern web applications.
+
+I have experience with CI/CD pipelines, automating deployments, and improving development workflows using Azure DevOps. I have specifically worked with Azure to build and manage pipelines, automate deployment processes, and streamline development workflows.
+
+When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, learning about software architecture or working out.
 
 
 ## 🌐 Socials:
