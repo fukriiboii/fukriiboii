@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Hi there! 👋 I'm a Systems Developer with a strong background in Java development. I have a vocational degree in Java development from a Swedish higher vocational education program.
 
 I specialize in backend development, working with Spring Boot, REST APIs, and microservices. I enjoy designing efficient systems, optimizing performance, and ensuring smooth integrations between services.
